@@ -16,7 +16,7 @@ import (
 	log "github.com/Sirupsen/logrus"
 	"github.com/cpuguy83/docker-grand-ambassador/utils"
 	"github.com/cpuguy83/dockerclient"
-	"github.com/docker/docker/pkg/proxy"
+	"github.com/cpuguy83/docker-grand-ambassador/proxy"
 )
 
 var (
