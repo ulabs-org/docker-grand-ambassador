@@ -61,3 +61,7 @@ docker run --rm --link redis_ambassador:db crosbymichael/redis-cli -h db ping
 ### Caveats
 
 It's a proxy!
+
+### PS:
+
+This is fixed, optimisation and minimize base container.  
